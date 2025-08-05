@@ -98,4 +98,7 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ## 👩‍💻 Author
 
-**Harshita Singh** – [GitHub](https://github.com/harshi75)
+**Harshita Singh** –
+AIML Year 3
+Nitra Technical Campus
+[GitHub](https://github.com/harshi75)
